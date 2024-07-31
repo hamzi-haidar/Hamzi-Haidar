@@ -1,3 +1,4 @@
+![](https://visitor-badge.laobi.icu/badge?page_id=hamzi-haidar)
 # Hi im Hamzi Haidar👋
 ## I'm a self-taught junior full stack developer passionate about creating dynamic and user-friendly web applications.
 
