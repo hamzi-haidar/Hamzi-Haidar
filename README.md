@@ -21,7 +21,7 @@
 
 -->
 <div>
- <img align="left" width="37%" alt="lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzi-haidar&layout=compact&theme=tokyonight" />
+ <img align="left" width="38%" alt="lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzi-haidar&layout=compact&theme=tokyonight" />
  <img align="left" width="57%"  alt="main-stats" src="https://github-readme-stats.vercel.app/api?username=hamzi-haidar&hide=stars,issues&show_icons=true&show=prs_merged_percentage&include_all_commits=true&theme=tokyonight" />
 </div>
 &nbsp;
