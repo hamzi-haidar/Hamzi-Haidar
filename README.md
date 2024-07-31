@@ -11,5 +11,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img alt="main-stats" src="https://github-readme-stats.vercel.app/api?username=hamzi-haidar&hide=stars,issues&show_icons=true&show=prs_merged_percentage&include_all_commits=true&theme=cobalt" />
-<img alt="lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzi-haidar&layout=compact&theme=cobalt" />
+<img align="left" width="40%" alt="lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzi-haidar&layout=compact&theme=tokyonight" />
+<img align="left" width="50%"  alt="main-stats" src="https://github-readme-stats.vercel.app/api?username=hamzi-haidar&hide=stars,issues&show_icons=true&show=prs_merged_percentage&include_all_commits=true&theme=tokyonight" />
