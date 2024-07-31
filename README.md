@@ -17,10 +17,16 @@
 </p>
 
 -->
-
- <img align="left" width="38%" alt="lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzi-haidar&layout=compact&theme=tokyonight" />
- <img align="left" width="58%"  alt="main-stats" src="https://github-readme-stats.vercel.app/api?username=hamzi-haidar&hide=stars,issues&show_icons=true&show=prs_merged_percentage&include_all_commits=true&theme=tokyonight" />
+<div>
+ <img align="left" width="37%" alt="lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzi-haidar&layout=compact&theme=tokyonight" />
+ <img align="left" width="57%"  alt="main-stats" src="https://github-readme-stats.vercel.app/api?username=hamzi-haidar&hide=stars,issues&show_icons=true&show=prs_merged_percentage&include_all_commits=true&theme=tokyonight" />
 &nbsp;
+</div>
+
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 
 ## Languages and Tools:
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
