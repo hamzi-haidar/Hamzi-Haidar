@@ -1,6 +1,9 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=hamzi-haidar)
-# Hi im Hamzi Haidar👋
-## I'm a self-taught junior full stack developer passionate about creating dynamic and user-friendly web applications.
+
+&nbsp;
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&pause=5000&width=435&height=56&lines=Hi+im+Hamzi++Haidar%F0%9F%91%8B)](https://git.io/typing-svg)
+## a self-taught junior full stack developer passionate about creating dynamic and user-friendly web applications.
 
 <!--
 - 🔭 I’m currently working on ...
@@ -20,8 +23,8 @@
 <div>
  <img align="left" width="37%" alt="lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzi-haidar&layout=compact&theme=tokyonight" />
  <img align="left" width="57%"  alt="main-stats" src="https://github-readme-stats.vercel.app/api?username=hamzi-haidar&hide=stars,issues&show_icons=true&show=prs_merged_percentage&include_all_commits=true&theme=tokyonight" />
-&nbsp;
 </div>
+&nbsp;
 
 <br></br>
 <br></br>
