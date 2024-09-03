@@ -3,7 +3,7 @@
 &nbsp;
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&pause=5000&width=435&height=56&lines=Hi+im+Hamzi++Haidar%F0%9F%91%8B)](https://git.io/typing-svg)
-## a self-taught junior full stack developer passionate about creating dynamic and user-friendly web applications.
+## a self-taught full stack developer passionate about creating dynamic and user-friendly web applications.
 
 <!--
 - 🔭 I’m currently working on ...
